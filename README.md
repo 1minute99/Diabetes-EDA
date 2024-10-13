@@ -1,6 +1,6 @@
 # Diabetes Exploratory Data Analysis
 
-Diabetes remains one of the most prevalent chronic diseases worldwide, posing significant public health challenges and burdening healthcare systems. The increasing incidence of diabetes underscores the necessity for comprehensive research into its correlations with various health indicators. This project aims to delve into the complexities of diabetes by analyzing data from Kaggle focusing specifically on its correlations with other variables.
+Diabetes remains one of the most prevalent chronic diseases worldwide, posing significant public health challenges and burdening healthcare systems. The increasing incidence of diabetes underscores the necessity for comprehensive research into its correlations with various health indicators. This project aims to delve into the complexities of diabetes by analyzing diabetes data focusing specifically on its correlations with other variables.
 
 ## Project Report
 https://github.com/1minute99/Diabetes-EDA/blob/main/Project2_Kim.ipynb
